@@ -40,7 +40,7 @@ def main():
     parser.add_argument("-ms", "--ms_start", type=int, default=0, 
                         help="Start time in milliseconds for overlaying the audio on the video.")
     parser.add_argument("--ad_subtitle_en", type=str2bool, default=False, 
-                        help="Create a voice-over video with English subtitles?")
+                        help="Create subtitle videos with original language")
     parser.add_argument("--retain_sound", type=str2bool, default=True, 
                         help="retain the original sound")
     parser.add_argument('-s', '--l_in',default="en", 
