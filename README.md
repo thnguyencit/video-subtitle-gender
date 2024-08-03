@@ -19,11 +19,11 @@ Python version 3.6 and install the dependencies:
 ## Usage
 Using Speech-to-Text with Openai Whisper
 
-    python3 openai-whisper.py https://www.youtube.com/watch?v=zkczDkbaE68 --l_in en -r 10 -v 40 --ad_subtitle_en=True --retain_sound=True -noise=True --gender auto 
+    python3 openai-whisper.py <youtube-link> --l_in en -r 10 -v 40 --ad_subtitle_en=True --retain_sound=True -noise=True --gender auto 
 
 Using Speech-to-Text with Google Cloud
 
-    python3 google-cloud.py https://www.youtube.com/watch?v=zkczDkbaE68 --l_in en -r 10 -v 40 --ad_subtitle_en=True --retain_sound=True -noise=True --gender auto
+    python3 google-cloud.py <youtube-link> --l_in en -r 10 -v 40 --ad_subtitle_en=True --retain_sound=True -noise=True --gender auto
 
 The explanation of the parameters is explained as follow:
 
