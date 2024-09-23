@@ -1,4 +1,4 @@
-## Generating Dubbed and narrated videos based on speakers’ gender identification using deep learning techniques
+## An Approach for Voice-Signal-Driven Gender Identification for Adaptive Video Dubbing and Narrating  in Vietnamese
 
 ## Introduction
 The purpose of the project is to create high-quality, highly accurate Vietnamese dubbed or dubbed videos with high subtitles and gender classification models while meeting diverse user needs.
